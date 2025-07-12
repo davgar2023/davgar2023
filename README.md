@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Garcia
 
-🎓 Full Stack Developer | Oracle Certified | Available for Remote Roles (LATAM - USA)
+🎓 Full Stack Developer | Oracle Certified | Available for Remote Roles (LATAM - USA - Canada)
 
 I specialize in developing robust, scalable web applications with a passion for clean code, system architecture, and real-world problem solving.
 
@@ -9,7 +9,18 @@ I specialize in developing robust, scalable web applications with a passion for 
 - **Backend**: Node.js, Express, OracleDB, MongoDB
 - **Frontend**: React.js, Bootstrap, EJS
 - **DevOps**: Docker, Nginx, PM2
+- **Auth:** JWT, Cookies, Role-based Access
 - **Tools**: Git, GitHub, Postman, VS Code
+
+## 📜 Certifications
+
+- ✅ **Oracle PL/SQL Developer Certified** – Oracle
+- ✅ **Microsoft Azure Fundamentals (AZ-900)** – Microsoft
+- ✅ **Scrum Master Professional Certificate (SMPC®)** – CertiProf
+- ✅ **Databases & SQL Certification** – Pearson
+- ✅ **JavaScript Developer Certificate** – Pearson
+- ✅ **Full Stack Web Development Bootcamp** – University of British Columbia (Completed January 2025)
+
 
 ## 🛠️ Featured Projects
 
