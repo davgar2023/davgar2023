@@ -17,10 +17,11 @@ I specialize in developing robust, scalable web applications with a passion for 
 > Secure note-taking system with JWT auth, MongoDB backend, EJS frontend, and full CRUD.
 
 ### 📦 [Product Inventory](https://github.com/davgar2023/product-inventory)
-> Inventory system with sorting, filtering, and searching. Bootstrap + Vanilla JS + Node.js.
+> Inventory system with sorting, filtering, and searching.
 
 ### 🌐 [Social Network](https://github.com/davgar2023/social-network)
 > Custom-built social graph data structure with BFS and strong object-oriented principles.
 
-📫 Let's connect on [LinkedIn](www.linkedin.com/in/david-garcia-melgar-dev)
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/david-garcia-melgar-dev)
+
 
