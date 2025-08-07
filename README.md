@@ -6,7 +6,7 @@ I specialize in developing robust, scalable web applications with a passion for 
 
 ## 🚀 Tech Stack
 - **Languages**: JavaScript, SQL, PL/SQL
-- **Backend**: Node.js, Express, OracleDB, MongoDB
+- **Backend**: Node.js, Express, OracleDB, MongoDB, Django, Python
 - **Frontend**: React.js, Bootstrap, EJS
 - **DevOps**: Docker, Nginx, PM2
 - **Auth:** JWT, Cookies, Role-based Access
