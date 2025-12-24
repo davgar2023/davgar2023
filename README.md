@@ -42,6 +42,11 @@ I specialize in developing robust, scalable web applications with a passion for 
 ### 🌐 [Social Network](https://github.com/davgar2023/social-network)
 > Custom-built social graph data structure with BFS and strong object-oriented principles.
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/david-garcia-melgar-dev)
+
+## Let's Connect
+
+📧 **Email:** davidgarcia41@gmail.com  
+💼 **LinkedIn:** [David Alexander Garcia Melgar](https://www.linkedin.com/in/david-garcia-melgar-dev)  
+🌐 **Website:** [https://github.com/davgar2023](https://github.com/davgar2023)
 
 
