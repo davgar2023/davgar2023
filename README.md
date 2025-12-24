@@ -2,6 +2,16 @@
 
 🎓 Full Stack Developer | Oracle Certified | Available for Remote Roles (LATAM - USA - Canada)
 
+# Hi there 👋, I'm David Alexander Garcia Melgar
+
+I’m David Garcia, a Software Developer with a passion for melding coding proficiency with creative problem-solving to deliver compelling web and mobile applications. With over 10+ years of enriching experience, I specialize in crafting digital solutions that are not just robust and scalable but also resonate with optimal user engagement.
+
+My technical arsenal encompasses a diverse skill set including but not limited to HTML, CSS, JavaScript, TypeScript, Node.js, and various mobile & web development frameworks. I’m noted for my meticulous approach to debugging and testing, as well as my adept handling of backend functionalities and API integrations.
+
+I believe in the power of collaboration and effective communication, ensuring smooth operations in team settings and alignments with strategic design principles.
+
+Whether you’re seeking a devoted developer for your team, a consultant for your project, or simply wish to engage in insightful tech conversations, feel free to reach out.
+
 I specialize in developing robust, scalable web applications with a passion for clean code, system architecture, and real-world problem solving.
 
 ## 🚀 Tech Stack
