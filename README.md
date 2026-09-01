@@ -49,7 +49,7 @@ I specialize in developing robust, scalable web applications with a passion for 
 
 📧 **Email:** davidgarcia41@gmail.com  
 💼 **LinkedIn:** [David Alexander Garcia Melgar](https://www.linkedin.com/in/david-garcia-melgar-dev)  
-📍 **Location:** [Your City, Country]  
+📍 **Location:** Vancouver, Canada  
 📄 **Resume:** [Add a link to your resume PDF here]  
 🌐 **Website:** [https://github.com/davgar2023](https://github.com/davgar2023)
 
