@@ -120,7 +120,7 @@ Custom-built social networking application
 
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=davgar2023&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/davgar2023)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davgar2023&theme=react-dark&hide_border=true&area=true)](https://github.com/davgar2023)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=davgar2023&theme=radical&hide_border=true)](https://github.com/davgar2023)
 
 [![Top Languages](https://helio-github-stats.vercel.app/api/top-langs/?username=davgar2023&layout=compact&theme=radical&hide_border=true)](https://github.com/davgar2023)
 
