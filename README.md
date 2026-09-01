@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with **10+ years of experience** in designing and building robust, scalable web applications. I specialize in creating clean, maintainable code and solving complex architectural challenges.
+I'm a **Full Stack Developer** with **20+ years of experience** in designing and building robust, scalable web applications. I specialize in creating clean, maintainable code and solving complex architectural challenges.
 
 **What I do:**
 - 🎯 Build end-to-end web applications using modern tech stacks
@@ -119,6 +119,8 @@ Custom-built social networking application
 <div align="center">
 
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=davgar2023&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/davgar2023)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davgar2023&theme=react-dark&hide_border=true&area=true)](https://github.com/davgar2023)
 
 [![Top Languages](https://helio-github-stats.vercel.app/api/top-langs/?username=davgar2023&layout=compact&theme=radical&hide_border=true)](https://github.com/davgar2023)
 
