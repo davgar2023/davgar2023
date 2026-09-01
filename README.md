@@ -2,10 +2,11 @@
 
 🎓 Full Stack Developer | Oracle Certified | Available for Remote Roles (LATAM - USA - Canada)
 
+Full‑Stack Developer (Node.js, React, Python/Django). Oracle‑certified. Open to remote roles — LATAM, USA, Canada.
 
-I’m David Garcia, a Software Developer with a passion for melding coding proficiency with creative problem-solving to deliver compelling web and mobile applications. With over 10+ years of enriching experience, I specialize in crafting digital solutions that are not just robust and scalable but also resonate with optimal user engagement.
+I’m David Garcia, a Software Developer with a passion for melding coding proficiency with creative problem-solving to deliver compelling web and mobile applications. With over 10+ years of enrich[...]
 
-My technical arsenal encompasses a diverse skill set including but not limited to HTML, CSS, JavaScript, TypeScript, Node.js, and various mobile & web development frameworks. I’m noted for my meticulous approach to debugging and testing, as well as my adept handling of backend functionalities and API integrations.
+My technical arsenal encompasses a diverse skill set including but not limited to HTML, CSS, JavaScript, TypeScript, Node.js, and various mobile & web development frameworks. I’m noted for my met[...]
 
 I believe in the power of collaboration and effective communication, ensuring smooth operations in team settings and alignments with strategic design principles.
 
@@ -48,6 +49,8 @@ I specialize in developing robust, scalable web applications with a passion for 
 
 📧 **Email:** davidgarcia41@gmail.com  
 💼 **LinkedIn:** [David Alexander Garcia Melgar](https://www.linkedin.com/in/david-garcia-melgar-dev)  
+📍 **Location:** [Your City, Country]  
+📄 **Resume:** [Add a link to your resume PDF here]  
 🌐 **Website:** [https://github.com/davgar2023](https://github.com/davgar2023)
 
 [![Top Languages](https://helio-github-stats.vercel.app/api/top-langs/?username=davgar2023&layout=compact&theme=radical&hide_border=true)](https://github.com/davgar2023)
