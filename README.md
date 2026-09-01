@@ -42,6 +42,7 @@ I specialize in developing robust, scalable web applications with a passion for 
 ### 🌐 [Social Network](https://github.com/davgar2023/social-network)
 > Custom-built social graph data structure with BFS and strong object-oriented principles.
 
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=davgar2023&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/davgar2023)
 
 ## Let's Connect
 
@@ -49,4 +50,4 @@ I specialize in developing robust, scalable web applications with a passion for 
 💼 **LinkedIn:** [David Alexander Garcia Melgar](https://www.linkedin.com/in/david-garcia-melgar-dev)  
 🌐 **Website:** [https://github.com/davgar2023](https://github.com/davgar2023)
 
-
+[![Top Languages](https://helio-github-stats.vercel.app/api/top-langs/?username=davgar2023&layout=compact&theme=radical&hide_border=true)](https://github.com/davgar2023)
