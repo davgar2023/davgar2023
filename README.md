@@ -6,7 +6,7 @@
 
 *Building scalable web applications with modern technologies | LATAM - USA - Canada*
 
-[Email](mailto:davidgarcia41@gmail.com) • [LinkedIn](https://www.linkedin.com/in/david-garcia-melgar-dev) • [GitHub](https://github.com/davgar2023) • [Resume](https://drive.google.com/your-resume-link)
+[Email](mailto:davidgarcia41@gmail.com) • [LinkedIn](https://www.linkedin.com/in/david-garcia-melgar-dev) • [GitHub](https://github.com/davgar2023) • [Resume](https://github.com/davgar2023/davgar2023/blob/main/resume.pdf)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with **20+ years of experience** in designing and building robust, scalable web applications. I specialize in creating clean, maintainable code and solving complex architectural challenges.
+I'm a **Full Stack Developer** with **20+ years of experience** in designing and building robust, scalable web applications. I specialize in creating clean, maintainable code and solving complex archi...
 
 **What I do:**
 - 🎯 Build end-to-end web applications using modern tech stacks
@@ -148,7 +148,7 @@ I'm always interested in discussing new projects, collaboration opportunities, o
 | 📧 **Email** | [davidgarcia41@gmail.com](mailto:davidgarcia41@gmail.com) |
 | 💼 **LinkedIn** | [David Alexander Garcia Melgar](https://www.linkedin.com/in/david-garcia-melgar-dev) |
 | 🐙 **GitHub** | [@davgar2023](https://github.com/davgar2023) |
-| 📄 **Resume** | [View PDF](https://drive.google.com/your-resume-link) |
+| 📄 **Resume** | [View PDF](https://github.com/davgar2023/davgar2023/blob/main/resume.pdf) |
 | 📍 **Location** | Vancouver, Canada 🇨🇦 |
 
 ---
