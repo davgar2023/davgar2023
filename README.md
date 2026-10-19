@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with **20+ years of experience** in designing and building robust, scalable web applications. I specialize in creating clean, maintainable code and solving complex archi[...] 
+I'm a **Full Stack Developer** with **20+ years of experience** in designing and building robust, scalable web applications. I specialize in creating clean, maintainable code and solving complex architectural problems.
 
 **What I do:**
 - 🎯 Build end-to-end web applications using modern tech stacks
