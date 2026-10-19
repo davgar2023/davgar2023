@@ -6,7 +6,7 @@
 
 *Building scalable web applications with modern technologies | LATAM - USA - Canada*
 
-[Email](mailto:davidgarcia41@gmail.com) • [LinkedIn](https://www.linkedin.com/in/david-garcia-melgar-dev) • [GitHub](https://github.com/davgar2023) • [Resume](https://github.com/davgar2023/da[...]
+[Email](mailto:davidgarcia41@gmail.com) • [LinkedIn](https://www.linkedin.com/in/david-garcia-melgar-dev) • [GitHub](https://github.com/davgar2023) • [Resume](https://github.com/davgar2023/davgar2023/blob/main/resume.pdf)
 
 </div>
 
@@ -14,19 +14,19 @@
 
 ## 📋 Table of Contents
 
-- [About Me](#-about-me)
-- [Tech Stack](#-tech-stack)
-- [Professional Experience](#-professional-experience)
-- [Certifications](#-certifications)
-- [Featured Projects](#-featured-projects)
-- [GitHub Stats](#-github-stats)
-- [Let's Connect](#-lets-connect)
+- [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [Professional Experience](#professional-experience)
+- [Certifications](#certifications)
+- [Featured Projects](#featured-projects)
+- [GitHub Stats](#github-stats)
+- [Let's Connect](#lets-connect)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with **20+ years of experience** in designing and building robust, scalable web applications. I specialize in creating clean, maintainable code and solving complex a[...]
+I'm a **Full Stack Developer** with **20+ years of experience** in designing and building robust, scalable web applications. I specialize in creating clean, maintainable code and solving complex archi[...] 
 
 **What I do:**
 - 🎯 Build end-to-end web applications using modern tech stacks
