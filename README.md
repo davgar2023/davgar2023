@@ -74,7 +74,7 @@ I'm a **Full Stack Developer** with **20+ years of experience** in designing and
 - Collaborated with cross-functional teams in Agile/Scrum environments
 - Deployed applications on Docker and cloud platforms
 
-**Database Administrator** | *Oracle Certified* | 2018 - Present
+**Database Administrator** | *Oracle Certified* | 2004 - Present
 - Designed and managed OracleDB schemas and performance tuning
 - Wrote complex PL/SQL procedures and triggers
 - Maintained data integrity and security protocols
