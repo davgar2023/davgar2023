@@ -149,7 +149,6 @@ I'm always interested in discussing new projects, collaboration opportunities, o
 | 💼 **LinkedIn** | [David Alexander Garcia Melgar](https://www.linkedin.com/in/david-garcia-melgar-dev) |
 | 🐙 **GitHub** | [@davgar2023](https://github.com/davgar2023) |
 | 📄 **Resume** | [View PDF](https://github.com/davgar2023/davgar2023/blob/main/resume.pdf) |
-| 📍 **Location** | Vancouver, Canada 🇨🇦 |
 
 ---
 
