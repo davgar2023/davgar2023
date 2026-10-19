@@ -6,7 +6,7 @@
 
 *Building scalable web applications with modern technologies | LATAM - USA - Canada*
 
-[Email](mailto:davidgarcia41@gmail.com) • [LinkedIn](https://www.linkedin.com/in/david-garcia-melgar-dev) • [GitHub](https://github.com/davgar2023) • [Resume](https://github.com/davgar2023/davgar2023/blob/main/resume.pdf)
+[Email](mailto:davidgarcia41@gmail.com) • [LinkedIn](https://www.linkedin.com/in/david-garcia-melgar-dev) • [GitHub](https://github.com/davgar2023) • [Resume](https://github.com/davgar2023/da[...]
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with **20+ years of experience** in designing and building robust, scalable web applications. I specialize in creating clean, maintainable code and solving complex archi...
+I'm a **Full Stack Developer** with **20+ years of experience** in designing and building robust, scalable web applications. I specialize in creating clean, maintainable code and solving complex a[...]
 
 **What I do:**
 - 🎯 Build end-to-end web applications using modern tech stacks
@@ -62,6 +62,7 @@ I'm a **Full Stack Developer** with **20+ years of experience** in designing and
 
 **Tools & Platforms**
 - Git, GitHub, Postman, VS Code, Jira, Vercel, Heroku
+- AI Development Tools & Infrastructure: Anthropic Claude (IDE), OpenAI Codex, Gemini (Android Studio), n8n (Linux installation/deployment)
 
 ---
 
